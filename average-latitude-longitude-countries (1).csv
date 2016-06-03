@@ -1,3 +1,3 @@
-"Sentiment","Country","Latitude","Longitude"
-2,"Andorra",42.5,1.5
-3,"United Arab Emirates",24,54
+"ID","Country","Latitude","Longitude","Sentiment"
+1,"Andorra",42.5,1.5,2
+2,"United Arab Emirates",24,54,4
