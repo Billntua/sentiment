@@ -1,6 +1,31 @@
 "ID","Country","Latitude","Longitude","Sentiment"
-1,"Andorra",42.5,1.5,2
-2,"United Arab Emirates",24,54,3
-3,"Argentina",-38,-63,1
-4,"Antigua and Barbuda",17,-61,3
-5,"Anguilla",18,-63,1
+0,"Andorra",42.5,1.5,2
+1,"Afghanistan",33,67,3
+2,"Argentina",-38,-63,3
+3,"Australia",-25,133,3
+4,"Austria",47,14,2
+5,"Azerbaijan",40,47,1
+6,"Bangladesh",23,90,2
+7,"Belgium",50,4,2
+8,"Brazil",-14,-51,2
+9,"Bulgaria",42,25,3
+10,"Chile",-35,-71,2
+11,"China",35,104,2
+12,"Colombia",4,-74,1
+13,"Croatia",45,2,2
+14,"Czech Republic",49,15,2
+15,"Denmark",56,9,2
+16,"Ecuador",-1,-78,3
+17,"Egypt",26,30,3
+18,"Estonia",58,25,2
+19,"Finland",61,25,2
+20,"France",46,2,2
+21,"Germany",51,10,3
+22,"Greece",39,21,3
+23,"Greenland",71,-42,1
+24,"Guam",13,144,1
+25,"Hong Kong",22,114,2
+26,"Hungary",47,19,2
+27,"India",20,78,3
+28,"Indonesia",0,113,2
+29,"Iran",32,53,3
